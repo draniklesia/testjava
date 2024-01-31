@@ -1,4 +1,4 @@
-package lesson2;
+package lesson2.homework1;
 
 public class Task4 {
 //  4)
